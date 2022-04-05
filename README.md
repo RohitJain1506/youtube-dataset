@@ -4,7 +4,7 @@ Youtube channel dataset.
 
 
 **Project Description-**
-Created a new repositorty here,named it as README and markdown file as "Readme.md".
+Created a new repositorty here,named it as youtube-dataset and markdown file as "Readme.md".
 
 **Project Report-**
 
